@@ -1,0 +1,9 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "dependencies": {
+    "npm-registry-client": "^7.1.2",
+    "semver": "^5.3.0",
+    "tar": "^2.2.1"
+  }
+}
